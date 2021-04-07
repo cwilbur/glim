@@ -59,6 +59,7 @@ The supported `boot/iso/` sub-directories (in alphabetical order) are :
     elementary
     fedora
     finnix
+    gentoo
     gparted
     grml
     ipxe
