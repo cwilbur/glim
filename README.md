@@ -71,6 +71,7 @@ The supported `boot/iso/` sub-directories (in alphabetical order) are :
     openbsd
     peppermint
     porteus
+    puppy
     rescatux
     rhel
     sabayon
