@@ -73,6 +73,7 @@ The supported `boot/iso/` sub-directories (in alphabetical order) are :
     tails
     ubuntu
     void
+    xentaos
     xubuntu
 
 Any missing sub-directory will have the matching boot menu entry automatically
