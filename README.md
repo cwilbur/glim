@@ -51,28 +51,39 @@ The supported `boot/iso/` sub-directories (in alphabetical order) are :
     antergos
     antix
     arch
+    artix
     bodhi
     centos
     clonezilla
     debian
     elementary
     fedora
+    finnix
+    gentoo
     gparted
     grml
     ipxe
     kali
+    kubuntu
     linuxmint
+    lubuntu
     manjaro
     netrunner
+    openbsd
     peppermint
     porteus
+    puppy
+    rescatux
     rhel
     sabayon
+    slitaz
     supergrub2disk
     sysrescd
     tails
+    trisquel
     ubuntu
     void
+    xentaos
     xubuntu
 
 Any missing sub-directory will have the matching boot menu entry automatically
@@ -139,6 +150,5 @@ All configuration files included are public domain. Do what you want with them.
 The invader logo was made by me, so unless the exact shape is covered by
 copyright somewhere, do what you want with it.
 The background is "Wallpaper grey" © 2008 payalnic (DeviantArt)
-The ascii.pf2 font comes from GRUB, which is GPLv3+ licensed. For more details 
+The ascii.pf2 font comes from GRUB, which is GPLv3+ licensed. For more details
 as well as the source code, see http://www.gnu.org/software/grub/
-
